@@ -32,7 +32,9 @@
       }
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
